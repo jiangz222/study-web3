@@ -1,6 +1,7 @@
 # cryptozombies
 
-学习 solidity 及其他相关 在 [cryptozombies.io](https://cryptozombies.io/en/course/)。
+学习 solidity 及其他相关 在 [cryptozombies.io](https://cryptozombies.io/en/course/)
+
 通过程序的编写更直接的理解以太坊、合约等概念。
 
 - Solidity 是一门面向合约的、为实现智能合约而创建的高级编程语言。
