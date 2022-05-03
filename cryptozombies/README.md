@@ -13,3 +13,4 @@
 ## 目录
 - [lesson-1](lesson-1) 介绍solidity基本语法
 - [lesson-2](lesson-2) 介绍solidity的语法进阶，以及如何和其他合约互动 
+- [lesson-3](lesson-3) 介绍solidity的语法进阶，gas等概念
